@@ -1,7 +1,7 @@
 {
   "name": "gavisharora",
   "version": "0.1.0",
-  "homepage": "http://gavisharora.github.io/me",
+  "homepage": "http://gavisharora.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
